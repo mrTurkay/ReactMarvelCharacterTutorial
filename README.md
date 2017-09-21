@@ -1,35 +1,11 @@
-﻿# ReduxReactStarter
+﻿# ReactMarvelCharacterTutorial
 
-<h4> React-Redux starter pack with hot reloader, axios, eslint, prettier based on duck patern and create react app</h4>
+<h2> React öğrenmek için geliştirilmiş örnek uygulama. </h2>
 
-### Getting Started
+## Türkçe ayrıntılı anlatım makaleleri: 
 
-```
-> git clone https://github.com/mrTurkay/ReduxReactStarter.git
-> cd ReduxReactStarter
-```
+### part1: https://medium.com/t%C3%BCrkiye/react-tutorial-marvel-karakterleri-part-1-ortam-haz%C4%B1rl%C4%B1%C4%9F%C4%B1-boilerplate-ve-proje-analizi-cd735e2e3d30
 
-#### Remove git file   
+### part2: https://medium.com/@muratturkaym/react-tutorial-part-2-marvel-karakterleri-kod1-e0df78c95ef5
 
-```
-> remove-item .git  -recurse -force
-```
-
-#### Commit for your local
-
-``` 
-> git init
-> git commit -m 'first commit'
-```
-
-#### Start project
-```
-> npm install
-> npm start
-```
-
-### Download zip file
-
-Or to download zip file click [here](https://github.com/mrTurkay/ReduxReactStarter/archive/master.zip) 
-
-Then you can open directory with command promt and start with (Commit for your local) part of this document above. 
+### part3: https://medium.com/@muratturkaym/react-tutorial-part-3-marvel-karakterleri-5115111fac71
